@@ -23,7 +23,7 @@ MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 app = FastAPI(title="LLM Resume Evaluator API", version="1.0.0")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Restrict this to  frontend origin before production.
+    allow_origins=["*"],  
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
