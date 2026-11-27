@@ -7,7 +7,6 @@ A small full-stack resume evaluation app using HTML, CSS, JavaScript, FastAPI, P
 ```text
 llm_resume_evaluator/
 ├── app.py
-├── .env.example
 ├── .gitignore
 ├── requirements.txt
 └── frontend/
