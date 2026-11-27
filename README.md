@@ -2,7 +2,7 @@
 
 A small full-stack resume evaluation app using HTML, CSS, JavaScript, FastAPI, Pydantic, PyMuPDF alternatives (`pypdf` / `python-docx`) and Groq.
 
-## 🚀 Live Demo
+# Live Demo
 
 **Try TalentLens here:** [TalentLens — Live Application](https://llm-resume-evaluator-1.onrender.com)
 
